@@ -14,9 +14,9 @@ features:
   - Scalable and responsive design
 
 tech_stack:
-  frontend: Not specified
-  backend: Not specified
-  database: Not specified
+  frontend: HTML, CSS
+  backend: Django
+  database: SQLite
   tools:
     - Git
     - GitHub
